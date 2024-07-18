@@ -1,0 +1,5 @@
+{
+    "files":[
+        "src/Bar.qs", "src/Foo.qs"
+    ]
+}
