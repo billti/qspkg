@@ -1,5 +1,6 @@
 
 function SayHi() : Unit {
+    //comment 
     Message("Hi!");
 }
 
